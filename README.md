@@ -1,5 +1,7 @@
 # ctrlia-opus-sonnet-haiku
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Prueba reproducible para comparar **Opus 5.5, Sonnet 5.5 y Haiku 5.5** (y, opcionalmente, Fable 5.1) en Claude Code con la misma tarea: arreglar un bug de redondeo y añadir una función con tests en un proyecto Python pequeño. Mide tiempo, coste estimado y calidad con pruebas ocultas que el modelo no ve.
 
 **Estado: metodología lista; resultados pendientes.** Ejecutar la prueba cuesta dinero (ver abajo).
